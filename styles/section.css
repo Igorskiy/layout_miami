@@ -1,0 +1,47 @@
+html,
+body,
+ul,
+li,
+button,
+input,
+textarea,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Ubuntu", sans-serif;
+  margin: 0;
+  padding: 0;
+  border-width: 0;
+  font-size: 16px;
+  line-height: inherit;
+  outline-color: #00aaef; }
+
+body {
+  line-height: 1.5; }
+
+strong {
+  font-weight: 500; }
+
+address {
+  font-style: inherit; }
+
+.section {
+  padding: 100px calc(50% - 470px);
+  position: relative;
+  background: #fff; }
+  .section:nth-child(even) {
+    background-color: #eee; }
+  .section__heading {
+    left: 0;
+    right: 0;
+    top: -0.5em;
+    margin: auto; }
+
+@media (max-width: 999px) {
+  .section {
+    padding: 40px; } }
+
+/*# sourceMappingURL=section.css.map */

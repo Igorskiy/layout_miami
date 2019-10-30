@@ -1,0 +1,1 @@
+{"version":3,"sources":["gallery.scss"],"names":[],"mappings":"AACE;EACE,mBAAmB,EAAA;;AAErB;EACE,gBAAgB;EAChB,iBAAiB;EACjB,kBAAkB,EAAA","file":"gallery.css","sourcesContent":[".gallery {\n  &__caption {\n    margin: 12px 0 35px;\n  }\n  &__button {\n    margin-top: 44px;\n    margin-left: auto;\n    margin-right: auto;\n  }\n}\n"]}

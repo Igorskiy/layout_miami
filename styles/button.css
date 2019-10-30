@@ -1,0 +1,45 @@
+html,
+body,
+ul,
+li,
+button,
+input,
+textarea,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Ubuntu", sans-serif;
+  margin: 0;
+  padding: 0;
+  border-width: 0;
+  font-size: 16px;
+  line-height: inherit;
+  outline-color: #00aaef; }
+
+body {
+  line-height: 1.5; }
+
+strong {
+  font-weight: 500; }
+
+address {
+  font-style: inherit; }
+
+.button {
+  display: block;
+  font-size: 14px;
+  line-height: 1;
+  color: #fff;
+  background-color: #00aaef;
+  cursor: pointer;
+  -webkit-transition: color 0.3s;
+  transition: color 0.3s;
+  padding: 19px 62px;
+  text-transform: uppercase; }
+  .button:hover {
+    color: #2f80ed; }
+
+/*# sourceMappingURL=button.css.map */

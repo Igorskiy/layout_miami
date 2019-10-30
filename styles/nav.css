@@ -44,7 +44,8 @@ address {
     margin: 0 23px;
     border-radius: 10px; }
     .nav__item_active {
-      background-color: #d5c5aa; }
+      background-color: #d5c5aa;
+      cursor: pointer; }
   .nav__link {
     color: #fff;
     text-decoration: none;
